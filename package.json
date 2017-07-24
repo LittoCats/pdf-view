@@ -1,6 +1,6 @@
 {
-  "name": "pdf-view",
-  "version": "0.0.1",
+  "name": "rn-pdf-view",
+  "version": "0.0.3",
   "description": "A pdf file view component for react native.",
   "main": "index.js",
   "typings": "./index.d.ts",
@@ -25,7 +25,6 @@
     "url": "https://github.com/LittoCats/pdf-view/issues"
   },
   "peerDependencies": {
-    "@types/react": "*",
-    "@types/react-native": "*"
+    "react-native": ">= 0.40.0"
   }
 }
